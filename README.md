@@ -9,3 +9,7 @@ Pontos importantes e que devem ser pensados durante a construção do projeto:
 
 
 xx PROPOSITO -> Treinar Meu conteudo de JS xx
+
+<p align="center">
+  <img alt="" src="./assests/Sem título.png" width="100%">
+</p>
